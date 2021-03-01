@@ -1,4 +1,4 @@
-# arduino-random
+# Arduino random sayı üretimi için farklı bir yaklaşım
 arduino random sayı üreteci, zar oyunu, 1-6 arasında sayi üretir. kod myArray dizinisini sürekli karıştırarak random sıralalar üretir ve dizinin son elemanını 7segmente yazarak kullanıcı için random sayı üretir.
 
 kod açıklaması:
